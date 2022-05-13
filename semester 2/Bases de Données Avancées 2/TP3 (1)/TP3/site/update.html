@@ -1,0 +1,21 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title> Mise à jour de la BD via XQuery Update</title>
+  </head>    
+  <body>
+    <center><h2>Mise à jour de la base de donnees via XQuery Update.</h2></center>
+    <form action="http://localhost:8080/exist/BD/update.xqy" method="GET">
+      Donnez les détails du film à ajouter :<br/>
+      <td width="20%" align="left">
+	Titre :  <input type="text" size="40" name="titre" /><br/>
+	Année :  <input type="text" size="40" name="year" /><br/>
+	Genre :  <input type="text" size="40" name="genre" /><br/>
+      </td>
+      <br/>
+      Validez.<input type="submit"/> 
+    </form>
+    
+    <a href="javascript:history.go(-1)"> Back. </a>
+  </body>
+</html>
