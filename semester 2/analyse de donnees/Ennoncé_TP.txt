@@ -1,9 +1,0 @@
-salam
-voici l'énoncé de TP: 
-sous  l'environnement SPSS:
-1.Presenter un tableau de données( de préférence de données réelles avec un nombres de variables  assez important ainsi le nombre des individus )
-2. Réaliser l'ACP sur ce tableau en affichant tous les résultats de l'analyse (moyennes, écart type,....)
-3.Afficher les composantes principales ainsi le nuage des points
-
-Remarque: je n'accepte plus deux binômes ayant le même tableau de données
-Le jours de consultation :la première semaine après les vacances
